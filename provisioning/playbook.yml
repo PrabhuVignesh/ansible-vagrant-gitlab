@@ -1,10 +1,4 @@
 ---
-# Ansible playbook for a GitLab server.
-#
-# @todo - Install postfix `yum -y install postfix`.
-#
-# @author Jeff Geerling (2014).
-
 - hosts: gitlab
   gather_facts: yes
 
