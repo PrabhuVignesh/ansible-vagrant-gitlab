@@ -1,8 +1,8 @@
 Installation Procedures:
 
-1. Install the necessary Ansible roles by running : `ansible-galaxy install -r requirements.yml`.
+1. clone or download this repo and `cd` to gitlab folder.
 
-2. clone or download this repo and `cd` to gitlab folder.
+2. Install the necessary Ansible roles by running : `ansible-galaxy install -r requirements.yml`.
 
 3. Then just `vagrant up` .
 
